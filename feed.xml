@@ -12,7 +12,7 @@ https://jasonjwells.github.io
  (+ elegance simplicity) 
 </description>
 <lastBuildDate>
-Wed, 21 Sep 2016 01:06:58 -0400
+Wed, 21 Sep 2016 01:17:51 -0400
 </lastBuildDate>
 <generator>
 clj-rss
@@ -28,7 +28,7 @@ https://jasonjwells.github.io/posts-output/2016-09-20-down-the-clojure-rabbit-ho
 Down the Clojure rabbit hole
 </title>
 <description>
-&lt;h3&gt;&lt;a name=&quot;down&amp;#95;the&amp;#95;clojure&amp;#95;rabbit&amp;#95;hole&quot;&gt;&lt;/a&gt;Down the Clojure Rabbit Hole&lt;/h3&gt;&lt;p&gt;My wife mentioned she might like to setup a static site generator blog after she finishes here course.&lt;/p&gt;&lt;p&gt;I have neglected my post-Wordpress blogging goal as well. I wanted us to switch to something we can handle with text files and &lt;em&gt;git&lt;/em&gt; but I could not decide the last time I looked. There are plenty of good options.  What language would be most educational? Python? Ruby? Go?..... Maybe just roll my own with Emacs Org-mode? &lt;/p&gt;&lt;p&gt;But my priority mainstream language to learn has become Clojure, and since I already had &lt;em&gt;Leiningen&lt;/em&gt; installed, this &lt;em&gt;Cryogen&lt;/em&gt; turned out to be the simplest website building tool I have ever seen. &lt;/p&gt;&lt;pre&gt;&lt;code&gt;lein new cryogen my-blog
+&lt;h3&gt;&lt;a name=&quot;...let&amp;#95;me&amp;#95;just&amp;#95;check&amp;#95;my&amp;#95;phone&amp;#95;before&amp;#95;i&amp;#95;read&amp;#95;that&amp;#95;textbook&quot;&gt;&lt;/a&gt;...let me just check my phone before I read that textbook&lt;/h3&gt;&lt;p&gt;My wife mentioned she might like to setup a static site generator blog after she finishes here course.&lt;/p&gt;&lt;p&gt;I have neglected my post-Wordpress blogging goal as well. I wanted us to switch to something we can handle with text files and &lt;em&gt;git&lt;/em&gt; but I could not decide the last time I looked. There are plenty of good options.  What language would be most educational? Python? Ruby? Go?..... Maybe just roll my own with Emacs Org-mode? &lt;/p&gt;&lt;p&gt;But my priority mainstream language to learn has become Clojure, and since I already had &lt;em&gt;Leiningen&lt;/em&gt; installed, this &lt;em&gt;Cryogen&lt;/em&gt; turned out to be the simplest website building tool I have ever seen. &lt;/p&gt;&lt;pre&gt;&lt;code&gt;lein new cryogen my-blog
 cd my-blog
 lein ring server
 
