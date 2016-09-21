@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='https://jasonjwells.github.io' rel='self' type='application/rss+xml'/>
+<title>
+weblog of Jason Wells
+</title>
+<link>
+https://jasonjwells.github.io
+</link>
+<description>
+I guess I should come out of my post-social media cave..
+</description>
+<lastBuildDate>
+Tue, 20 Sep 2016 23:45:02 -0400
+</lastBuildDate>
+<generator>
+clj-rss
+</generator>
+<item>
+<guid>
+https://jasonjwells.github.io/posts-output/2016-09-20-down-the-clojure-rabbit-hole/
+</guid>
+<link>
+https://jasonjwells.github.io/posts-output/2016-09-20-down-the-clojure-rabbit-hole/
+</link>
+<title>
+Down the Clojure rabbit hole
+</title>
+<description>
+&lt;h3&gt;&lt;a name=&quot;down&amp;#95;the&amp;#95;clojure&amp;#95;rabbit&amp;#95;hole&quot;&gt;&lt;/a&gt;Down the Clojure Rabbit Hole&lt;/h3&gt;&lt;p&gt;My wife mentioned she might like to setup a static site generator blog after she finishes here course.&lt;/p&gt;&lt;p&gt;I have neglected my post-Wordpress blogging goal as well. I wanted us to switch to something we can handle with text files and &lt;em&gt;git&lt;/em&gt; but I could not decide the last time I looked. There are plenty of good options.  What language would be most educational? Python? Ruby? Go?..... Maybe just roll my own with Emacs Org-mode? &lt;/p&gt;&lt;p&gt;But my priority mainstream language to learn has become Clojure, and since I already had &lt;em&gt;Leiningen&lt;/em&gt; installed, this &lt;em&gt;Cryogen&lt;/em&gt; turned out to be the simplest website building tool I have ever seen. &lt;/p&gt;&lt;pre&gt;&lt;code&gt;lein new cryogen my-blog
+cd my-blog
+lein ring server
+
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+<enclosure>
+
+</enclosure>
+<pubDate>
+Tue, 20 Sep 2016 00:00:00 -0400
+</pubDate>
+</item>
+</channel>
+</rss>
