@@ -3,16 +3,16 @@
 <channel>
 <atom:link href='https://jasonjwells.github.io' rel='self' type='application/rss+xml'/>
 <title>
-weblog of Jason Wells
+my-weblog:  jj_wells
 </title>
 <link>
 https://jasonjwells.github.io
 </link>
 <description>
-I guess I should come out of my post-social media cave..
+ (+ elegance simplicity) 
 </description>
 <lastBuildDate>
-Tue, 20 Sep 2016 23:45:02 -0400
+Wed, 21 Sep 2016 01:03:26 -0400
 </lastBuildDate>
 <generator>
 clj-rss
